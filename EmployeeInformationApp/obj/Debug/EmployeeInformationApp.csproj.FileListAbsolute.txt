@@ -1,0 +1,18 @@
+H:\Basis\Database\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.exe.config
+H:\Basis\Database\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.csprojResolveAssemblyReference.cache
+H:\Basis\Database\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.Properties.Resources.resources
+H:\Basis\Database\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.csproj.GenerateResource.Cache
+H:\Basis\Database\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.exe
+H:\Basis\Database\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.pdb
+H:\Basis\Database\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.exe
+H:\Basis\Database\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.pdb
+H:\Basis\Database\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.form.resources
+C:\Users\Web App Develop .Net\Desktop\jahangir\day13\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\jahangir\day13\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.exe
+C:\Users\Web App Develop .Net\Desktop\jahangir\day13\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.pdb
+C:\Users\Web App Develop .Net\Desktop\jahangir\day13\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.exe
+C:\Users\Web App Develop .Net\Desktop\jahangir\day13\EmployeeInformationApp\EmployeeInformationApp\bin\Debug\EmployeeInformationApp.pdb
+C:\Users\Web App Develop .Net\Desktop\jahangir\day13\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\jahangir\day13\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.form.resources
+C:\Users\Web App Develop .Net\Desktop\jahangir\day13\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\jahangir\day13\EmployeeInformationApp\EmployeeInformationApp\obj\Debug\EmployeeInformationApp.csproj.GenerateResource.Cache
